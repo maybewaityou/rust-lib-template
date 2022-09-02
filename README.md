@@ -1,1 +1,1 @@
-# Rust CLI Template
+# Rust Lib Template
